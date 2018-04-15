@@ -1,5 +1,6 @@
 {
   "pages": [
+    "page/component/first-page",
     "page/component/index",
 
     "page/component/pages/view/view",
