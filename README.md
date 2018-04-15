@@ -2,7 +2,7 @@
 
 ###You can visit this in Wechat by scan the follow QR code 
 
-![image](https://github.com/SethMessenger/wechat-minipro/tree/master/image/eManage-QR.jpg)
+![image](https://raw.githubusercontent.com/SethMessenger/wechat-minipro/master/image/eMange-QR.jpg)
 
 ## author 
 - [**@Seth Messenger**](https://sethmessenger.github.io/xxx)<br/>
