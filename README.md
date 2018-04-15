@@ -1,8 +1,8 @@
-#useful project
+# 用于微信小程序的模板项目
 
 ###You can visit this in Wechat by scan the follow QR code 
 
-##author 
+## author 
 - [**@Seth Messenger**](https://sethmessenger.github.io/xxx)<br/>
 - [**@大鲨鱼**](https://shayu.github.io/xxx)
 
